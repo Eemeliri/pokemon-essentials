@@ -76,7 +76,7 @@ LoseText = "You didn't have to win so convincingly!"
 Pokemon = PLUSLE,17
 Pokemon = MINUN,17
 #-------------------------------
-[COOLCOUPLE,Alice & Bob]
+[YOUNGCOUPLE2,Alice & Bob]
 LoseText = "Our teamwork failed!"
 Pokemon = TURTWIG,19
 Pokemon = CHIMCHAR,19
@@ -85,7 +85,7 @@ Pokemon = CHIMCHAR,19
 LoseText = "..."
 Pokemon = MARSHTOMP,19
 #-------------------------------
-[SWIMMER2_F,Ariel]
+[SWIMMER_F2,Ariel]
 LoseText = "Washed out!"
 Pokemon = STARYU,15
 Pokemon = GOLDEEN,11
